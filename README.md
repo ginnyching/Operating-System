@@ -1,13 +1,13 @@
-# Operating-System  
-====  
+# Operating-System   
+
 HW1  
-----  
-process creation and simple shell on linux   
-HW2  
-----   
-Multi-Threading Programming  
-HW3  
-----  
+----    
+process creation and simple shell on linux    
+HW2    
+----      
+Multi-Threading Programming   
+HW3   
+----     
 process scheduling    
 -Round Robin(RR)  
 -Shortest Remaining Job First(SRJF)    
