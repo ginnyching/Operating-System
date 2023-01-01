@@ -3,18 +3,18 @@
 HW1  
 ----    
 
-###### process creation and simple shell on linux    
+#### process creation and simple shell on linux    
 
 HW2    
 ----      
 
 
-###### Multi-Threading Programming   
+#### Multi-Threading Programming   
 
 HW3   
 ----     
 
-###### process scheduling    
+#### process scheduling    
 - Round Robin(RR)  
 - Shortest Remaining Job First(SRJF)    
 - MultiLevel Feedback Queue(MLFQ)  
@@ -24,7 +24,7 @@ HW3
 HW4  
 ----  
 
-###### Page replacement algorithm  
+#### Page replacement algorithm  
 - FIFO (First In First Out)  
 - LRU (Least Recently Used)  
 - LFU (Least Frequently Used)  
